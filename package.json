@@ -1,0 +1,31 @@
+{
+  "name": "stylelint-config-lamb",
+  "version": "1.0.0",
+  "description": "LAMB Stylelint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LAMB-GoCoGroup/stylelint-config-lamb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LAMB-GoCoGroup/stylelint-config-lamb/issues"
+  },
+  "homepage": "https://github.com/LAMB-GoCoGroup/stylelint-config-lamb#readme",
+  "dependencies": {
+    "stylelint": "^13.12.0",
+    "stylelint-config-sass-guidelines": "^8.0.0",
+    "stylelint-no-unsupported-browser-features": "^4.1.4",
+    "stylelint-scss": "^3.19.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.12.0",
+    "stylelint-config-sass-guidelines": "^8.0.0",
+    "stylelint-no-unsupported-browser-features": "^4.1.4",
+    "stylelint-scss": "^3.19.0"
+  }
+}

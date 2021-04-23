@@ -1,0 +1,13 @@
+.env.config.ini
+yarn-error.log
+vendor
+.DS_Store
+node_modules
+tags
+.idea/
+.vscode/
+*.sublime-*
+frontend.js
+.nvmrc
+*.http
+.history/
